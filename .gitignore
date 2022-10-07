@@ -1,0 +1,4 @@
+.clang-format
+panoramix
+*.o
+.vscode
